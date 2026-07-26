@@ -94,13 +94,13 @@ ul {
 }
 
 .hero-2 {
-  background: url("/img/images/home/iphone11-pro-bg.jpg")
+  background: url("iphone11-pro-bg.jpg")
     no-repeat center center / cover;
   color: #fff;
 }
 
 .hero-3 {
-  background: url("/img/images/home/iphone11-bg.jpg")
+  background: url("iphone11-bg.jpg")
     no-repeat center center / cover;
 }
 
@@ -111,18 +111,18 @@ ul {
 }
 
 .promo-1 {
-  background: url(/img/images/home/watch-series-5.jpg)
+  background: url(watch-series-5.jpg)
     no-repeat center center / cover;
   /* color: #fff; */
 }
 
 .promo-2 {
-  background: url(/img/images/home/apple-card.jpg)
+  background: url(apple-card.jpg)
     no-repeat center center / cover;
 }
 
 .promo-3 {
-  background: url(/img/images/home/apple-tv-background.jpg)
+  background: url(apple-tv-background.jpg)
     no-repeat center center / cover;
 }
 
@@ -144,7 +144,7 @@ ul {
 }
 
 .promo-6 {
-  background: url(/img/images/home/new-ipad.jpg) no-repeat center center /
+  background: url(new-ipad.jpg) no-repeat center center /
     cover;
 }
 
